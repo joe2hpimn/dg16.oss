@@ -1,0 +1,17 @@
+/ftian.*
+TAGS
+GTAGS
+GPATH
+GSYMS
+GRTAGS
+*.cscope
+/build
+/toolchain
+/INSTALLDIR
+/run
+/CXXFLAGS
+/CFLAGS
+madlib.out
+postgis.out
+*~
+\#*\#

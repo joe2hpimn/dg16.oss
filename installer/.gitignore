@@ -1,0 +1,8 @@
+Python-2.*
+*.out
+payload.tgz
+payload
+version.sh
+*.bin
+setuptools*.zip
+liblist
